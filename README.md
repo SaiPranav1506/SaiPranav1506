@@ -1,5 +1,5 @@
-# 💫 About Me:
- AI/ML engineer building production-grade systems in generative AI, computer vision, and full-stack develop<br>ment using Diffusion Models, GANs, and scalable backend APIs
+# About Me:
+An Undergrad AI/ML engineer building production-grade systems in generative AI, computer vision, and full-stack develop<br>ment using Diffusion Models, GANs, and scalable backend APIs
 
 
 ## 🌐 Socials:
